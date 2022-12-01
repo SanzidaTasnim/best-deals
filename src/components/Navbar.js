@@ -23,7 +23,6 @@ const Navbar = () => {
           <p className="bg-black text-white rounded-full p-2">Delivery</p>
           <p className="p-2">Pickup</p>
         </div>
-        https://github.com/SanzidaTasnim/BestDeals.git
       </div>
       {/* Search Input */}
       <div className="bg-gray-200 rounded-full flex justify-center items-center px-2 w-[200px] sm:w-[400px] lg:w-[700px]">
